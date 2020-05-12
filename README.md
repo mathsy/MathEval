@@ -1,6 +1,6 @@
 # MathEval
-A GUI Chess Engine built on "Skotz" ehich selfoptimes itself.
-It is writte in C#.
+A GUI Chess Engine built on "Skotz" which selfoptimes itself.
+It is written in C#.
 
 It is in early stage, but it runs stable.
 
