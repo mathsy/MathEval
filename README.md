@@ -14,4 +14,12 @@ To initialize the weights, download the .txt file and rename it to "result.txt" 
 
 In original the name will be "weights-gen-xxxx", where xxxx means the number of games it played.
 
+# Strength
+
+  Games     |   ELO   
+  ------------------
+  3         |   0
+  237       |  241
+
+
 # This engine is built on Skotz
